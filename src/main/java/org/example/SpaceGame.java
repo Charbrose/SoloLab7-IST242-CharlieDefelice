@@ -1,3 +1,14 @@
+/**
+ * Project: Solo Lab 7 Assignment
+ * Purpose Details: This game lets you control a spaceship and destroy astroids to gain score and survive.
+ * Course: IST 242
+ * Author: Charlie Defelice
+ * Date Developed: 4/20/24
+ * Last Date Changed: 4/28/24
+ * Rev: 4.2
+ */
+
+
 package org.example;
 
 import javax.swing.*;

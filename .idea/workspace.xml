@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55485473-3d9a-4867-9e6e-d53e45808013" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SpaceGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/collision.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fire.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/obstacles.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shield.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spaceship.png" afterDir="false" />
+    <list default="true" id="55485473-3d9a-4867-9e6e-d53e45808013" name="Changes" comment="push it through congress">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SpaceGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SpaceGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +65,24 @@
       <workItem from="1714239800456" duration="881000" />
       <workItem from="1714258239646" duration="4771000" />
       <workItem from="1714277753645" duration="4717000" />
-      <workItem from="1714332073626" duration="8717000" />
+      <workItem from="1714332073626" duration="9087000" />
     </task>
+    <task id="LOCAL-00001" summary="push it through congress">
+      <option name="closed" value="true" />
+      <created>1714351389392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714351389392</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push it through congress" />
+    <option name="LAST_COMMIT_MESSAGE" value="push it through congress" />
   </component>
 </project>
